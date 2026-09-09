@@ -1,0 +1,18 @@
+[
+  {
+    "id": "res-baidu-l3", "title": "人工智能训练师三级资料合集", "description": "理论题库、实操资料、课程视频与模拟试卷的百度网盘合集。", "type": "baidu", "session": "general",
+    "url": "https://pan.baidu.com/s/1JwYgfeI9x7abswytK09YVQ", "code": "8vfq", "updatedAt": "2026-08-31", "size": "网盘合集", "status": "available", "tags": ["三级", "课程", "题库"]
+  },
+  {
+    "id": "res-toolkit", "title": "下午实操工具包", "description": "包含 Anaconda / Jupyter、draw.io、截图工具和配套使用说明。", "type": "tool", "session": "afternoon",
+    "url": "https://pan.baidu.com/s/1JwYgfeI9x7abswytK09YVQ", "code": "8vfq", "updatedAt": "2026-08-31", "size": "约 1.1 GB", "status": "available", "tags": ["工具", "Jupyter", "draw.io"]
+  },
+  {
+    "id": "res-mock", "title": "三级模拟试卷与解析", "description": "用于考前计时训练的模拟卷、答题卡、答案解析和错题总结。", "type": "document", "session": "morning",
+    "url": "https://pan.baidu.com/s/1JwYgfeI9x7abswytK09YVQ", "code": "8vfq", "updatedAt": "2026-08-31", "size": "100 套 Word 试卷", "status": "available", "tags": ["模拟考试", "解析"]
+  },
+  {
+    "id": "res-direct-tools", "title": "工具包独立下载", "description": "后续提供拆分后的轻量工具包和校验信息，避免重复下载全部资料。", "type": "tool", "session": "afternoon",
+    "updatedAt": "2026-08-31", "status": "coming-soon", "tags": ["工具", "独立下载"]
+  }
+]

@@ -1,0 +1,6 @@
+https://www.cnblogs.com/zxhoo/p/19518471 教程
+
+Anaconda 已宣布将于 2025年8月15日 停止为 Intel Mac（osx-64） 构建新包。这意味着在此日期之后，Intel 架构的 Mac 将无法获得 新版本 的 Anaconda 默认通道包，但现有的 osx-64 包仍会保留并可继续使用。
+
+可以下载这个版本：
+Anaconda3-2025.06-1-MacOSX-arm64.pkg	781.3M	2025-07-18 13:52:27	4f81547918274bff6570d58ed773603dbd6f3fe01620c7c8c4e497cf29dad327

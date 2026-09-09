@@ -1,0 +1,5 @@
+cmd终端输入：
+pip install xgboost
+
+如果使用conda：
+conda install -c conda-forge xgboost

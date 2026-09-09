@@ -1,0 +1,10 @@
+{
+  "name": "人工智能刷题平台",
+  "short_name": "AI 刷题",
+  "description": "人工智能训练师考试刷题与学习工具",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8fa",
+  "theme_color": "#15171a",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

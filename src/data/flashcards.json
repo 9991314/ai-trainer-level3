@@ -1,0 +1,16 @@
+[
+  { "id": "fc-01", "term": "Softmax", "summary": "多分类概率分布", "category": "深度学习", "detail": "输出各类别概率且总和为 1。" },
+  { "id": "fc-02", "term": "Sigmoid", "summary": "常用于二分类", "category": "深度学习", "detail": "把数值压缩到 0～1。" },
+  { "id": "fc-03", "term": "CNN", "summary": "图像 / 空间特征", "category": "深度学习" },
+  { "id": "fc-04", "term": "RNN", "summary": "处理序列数据", "category": "深度学习" },
+  { "id": "fc-05", "term": "LSTM", "summary": "长短期记忆网络", "category": "深度学习" },
+  { "id": "fc-06", "term": "CRNN", "summary": "CNN + RNN", "category": "OCR" },
+  { "id": "fc-07", "term": "Recall", "summary": "真正例中找回来多少", "category": "模型评估" },
+  { "id": "fc-08", "term": "Precision", "summary": "预测为正的里面有多少是真的", "category": "模型评估" },
+  { "id": "fc-09", "term": "AUC", "summary": "区分正负样本的能力", "category": "模型评估" },
+  { "id": "fc-10", "term": "Conv2d", "summary": "二维卷积", "category": "PyTorch" },
+  { "id": "fc-11", "term": "MaxPool2d", "summary": "二维最大池化", "category": "PyTorch" },
+  { "id": "fc-12", "term": "drop_duplicates", "summary": "删除重复行", "category": "Pandas" },
+  { "id": "fc-13", "term": "fillna", "summary": "填充缺失值", "category": "Pandas" },
+  { "id": "fc-14", "term": "过拟合", "summary": "训练好，泛化差", "category": "机器学习" }
+]

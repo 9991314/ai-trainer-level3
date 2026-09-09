@@ -1,0 +1,10 @@
+label_skin colour
+White race
+Yellow race
+Black race
+
+
+
+label_gender
+Male
+Female

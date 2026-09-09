@@ -1,0 +1,6 @@
+bear
+cat
+dog
+giraffe
+elephant
+zebra
