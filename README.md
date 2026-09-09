@@ -8,7 +8,7 @@
 
 ## 在线访问
 
-[https://ai-trainer-level3.mauve-loach-4830.chatgpt.site](https://ai-trainer-level3.mauve-loach-4830.chatgpt.site)
+[https://ai-trainer-level3.bbringing30.chatgpt.site](https://ai-trainer-level3.bbringing30.chatgpt.site)
 
 站点地址通过构建环境变量 `VITE_SITE_URL` 配置，源码中不写死域名。
 
